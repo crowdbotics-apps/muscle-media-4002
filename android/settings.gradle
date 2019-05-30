@@ -1,0 +1,3 @@
+rootProject.name = 'muscle_media_4002'
+
+include ':app'
